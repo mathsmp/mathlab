@@ -1,0 +1,21 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies (tidak ada untuk project statis ini, tapi untuk konsistensi)
+node_modules/
+
+# Build / log sementara
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# File sementara lokal
+/tmp/
+.cache/
